@@ -1,0 +1,413 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@100;300;400;500;700;900&display=swap');
+
+
+
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.hero {
+    display: grid;
+    grid-template-areas:
+        /*"menu"*/
+        "info"
+        "footer";
+}
+
+/* CONTENIDO INFO */
+
+.pagina-principal {
+    grid-area: info;
+}
+
+.pagina-grilla {
+    display: grid;
+    margin-left: 15vw;
+    margin-right: 15vw;
+    margin-top: 10vh;
+    row-gap: 10vh;
+}
+
+.album {
+    padding: 2vw;
+    display: grid;
+    grid-template-areas:
+        "cover titulo titulo"
+        "cover tipo tracks-titulo"
+        "cover releaseDate tracks"
+        "cover country tracks"
+        "content content content";
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 8vh 4vh 4vh;
+    column-gap: 2vw;
+    row-gap: 3vh;
+}
+
+.album-titulo {
+    grid-area: titulo;
+}
+
+.album__titulo {
+    font-size: 2vw;
+}
+
+.tracks-titulo {
+    grid-area: tracks-titulo;
+}
+
+.album-tipo {
+    grid-area: tipo;
+}
+
+.album-releaseDate {
+    grid-area: releaseDate;
+}
+
+.album-country {
+    grid-area: country;
+}
+
+.album__tipo,
+.album__fecha,
+.album__pais {
+    font-size: 1.2vw;
+}
+
+.album-cover {
+    display: grid;
+    grid-area: cover;
+    justify-content: center;
+}
+
+.album__cover {
+    height: 50vh;
+    width: auto;
+    max-width: 24vw;
+}
+
+.album-contenido {
+    grid-area: content;
+}
+
+.album__contenido {
+    font-size: 1.2vw;
+}
+
+.album-tracks {
+    grid-area: tracks;
+    height: 30vh;
+    overflow-y: auto;
+}
+
+.tracks-titulo .titulo {
+    font-size: 1.2vw;
+}
+
+.album__track {
+    font-size: 1.1vw;
+}
+
+.album-tracks::-webkit-scrollbar {
+    height: 1.5vh;
+    width: 5px;
+    background-color: #f0c478;
+    /* Tamaño del scroll en horizontal */
+}
+
+.album-tracks::-webkit-scrollbar-thumb {
+    background-color: #191919;
+}
+
+.album-video{
+    grid-area: video;
+}
+
+
+/* CONTENIDO MENU */
+
+.menu {
+    /* grid-area: menu;*/
+    display: grid;
+    position: fixed;
+    height: 10vh;
+    width: 100vw;
+    z-index: 999;
+    background-color: rgb(24, 34, 39);
+}
+
+.menu-contenedor {
+    display: grid;
+    grid-template-areas:
+        "titulo enlaces";
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 15vw;
+    margin-right: 15vw;
+    color: #f0c478;
+
+}
+
+.menu-titulo {
+    grid-area: titulo;
+}
+
+.menu-contenedor .menu-titulo .menu__titulo {
+    font-size: 1.8vw;
+    font-weight: bold;
+    color: #f0c478;
+}
+
+
+
+.menu-lista {
+    grid-area: enlaces;
+}
+
+.menu-contenedor .menu-lista {
+    display: flex;
+}
+
+.menu-contenedor .menu-lista .menu__item a {
+    font-size: 1.2vw;
+    margin-left: 2vw;
+    color: #f0c478;
+
+}
+
+.menu-contenedor .menu-lista .menu__item a:hover {
+    border-bottom: 1px solid #f0c478;
+
+}
+
+.menu__item--active a {
+    font-weight: bold;
+
+}
+
+
+/* CONTENIDO REDES */
+
+.footer {
+    grid-area: footer;
+    display: grid;
+    align-items: center;
+    height: 20vh;
+    background-color: rgb(24, 34, 39);
+    color: #f0c478;
+}
+
+.contenido-redes {
+    padding: 0 5vw;
+    display: grid;
+    justify-items: center;
+    row-gap: 1vw;
+}
+
+.redes-texto p {
+    font-size: 0.9vw;
+}
+
+.redes-texto a {
+    color: #f0c478;
+}
+
+@media only screen and (max-width: 600px) {
+    .pagina-principal {
+        grid-area: info;
+    }
+
+    .pagina-grilla {
+        display: grid;
+        margin-left: 5vw;
+        margin-right: 5vw;
+        margin-top: 25vh;
+        margin-bottom: 5vh;
+        row-gap: 5vh;
+    }
+
+    .album {
+        padding: 0vw;
+        display: grid;
+        grid-template-areas:
+            "titulo titulo titulo"
+            "cover cover cover"
+            "tipo releaseData country"
+            "tracks-titulo tracks-titulo tracks-titulo"
+            "tracks tracks tracks
+            "video video video"
+            "content content content";
+        grid-template-columns: auto;
+        grid-template-rows: 1fr;
+        column-gap: 0vw;
+        row-gap: 3vh;
+    }
+
+
+
+    .album__titulo {
+        text-align: center;
+    }
+
+
+    .album__cover {
+        height: 50vh;
+        max-width: 100%;
+    }
+
+    .album-tracks {
+        grid-area: tracks;
+        height: auto;
+        max-height: 30vh;
+        overflow-y: auto;
+    }
+
+    .album__tipo,
+    .album__fecha,
+    .album__pais {
+        font-size: 4vw;
+    }
+
+    .album__titulo {
+        font-size: 8vw;
+    }
+
+    .album__contenido {
+        font-size: 5vw;
+    }
+
+    .tracks-titulo .titulo {
+        font-size: 5vw;
+    }
+
+    .album__track {
+        font-size: 4.5vw;
+    }
+
+    /* CONTENIDO MENU */
+
+    .menu {
+        /* grid-area: menu;*/
+        display: grid;
+        position: fixed;
+        height: 10vh;
+        width: 100vw;
+        z-index: 999;
+        background-color: rgb(24, 34, 39);
+    }
+
+    .menu-contenedor {
+        display: grid;
+        grid-template-areas:
+            "titulo enlaces";
+        align-items: center;
+        justify-content: space-between;
+        margin-left: 15vw;
+        margin-right: 15vw;
+        color: #f0c478;
+
+    }
+
+    .menu-titulo {
+        grid-area: titulo;
+    }
+
+    .menu-contenedor .menu-titulo .menu__titulo {
+        font-size: 1.8vw;
+        font-weight: bold;
+        color: #f0c478;
+    }
+
+    .menu-lista {
+        grid-area: enlaces;
+    }
+
+    .menu-contenedor .menu-lista {
+        display: flex;
+    }
+
+    .menu-contenedor .menu-lista .menu__item a {
+        font-size: 1.2vw;
+        margin-left: 2vw;
+        color: #f0c478;
+
+    }
+
+    .menu-contenedor .menu-lista .menu__item a:hover {
+        border-bottom: 1px solid #f0c478;
+
+    }
+
+    .menu__item--active a {
+        font-weight: bold;
+
+    }
+
+
+
+    /* CONTENIDO MENU */
+    .menu {
+        height: 20vh;
+    }
+
+    .menu-contenedor {
+        display: grid;
+        grid-template-areas:
+            "titulo"
+            "enlaces";
+        margin-left: 5vw;
+        row-gap: 0vh;
+    }
+
+    .menu-contenedor .menu-titulo .menu__titulo {
+        font-size: 8vw;
+    }
+
+    .menu-contenedor .menu-lista .menu__item a {
+        font-size: 5vw;
+        margin-left: 3vw;
+    }
+
+    /* CONTENIDO REDES */
+
+    .footer {
+        display: grid;
+        align-items: center;
+        height: 20vh;
+        background-color: #191919;
+    }
+
+    .contenido-redes {
+        padding: 0;
+        row-gap: 3vh;
+    }
+
+    .redes-tarjetas {
+        display: flex;
+        justify-content: center;
+        column-gap: 5vw;
+    }
+
+    .redes-tarjetas .tarjeta {
+        display: grid;
+        align-items: center;
+    }
+
+    .redes-tarjetas .tarjeta-icono i {
+        font-size: 8vw;
+        color: aliceblue;
+    }
+
+    .redes-texto p {
+        font-size: 3.5vw;
+    }
+}

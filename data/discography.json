@@ -1,0 +1,884 @@
+[
+    {
+       "_id":38,
+       "type":"Album",
+       "country":"Japan",
+       "name":"Celebrate",
+       "releaseDate":"2022-07-27",
+       "coverArt":"https://s3-aop.plusmember.jp/prod/public/twice/contents/discography/e8c2ebb881d0dae712588e39f126fa94.jpeg",
+       "content":" Full album will release in July 27, 2022. ",
+       "tracks":[
+          "Celebrate",
+          "Voices of Delight",
+          "TICK TOCK",
+          "Flow like waves",
+          "That's all I'm saying",
+          "Bitter Sweet",
+          "Sandcastle",
+          "Just be yourself",
+          "Doughnut"
+       ],
+       "spotifyLink":"https://open.spotify.com/album/580je4ls7G3Ul39rZzqXOC",
+       "video":[
+          "https://www.youtube.com/watch?v=VcOSUOpACq0"
+       ]
+    },
+    {
+       "_id":37,
+       "type":"Album",
+       "country":"Korea",
+       "name":"IM NAYEON",
+       "releaseDate":"2022-06-24",
+       "coverArt":"https://i0.wp.com/presave.umusic.com/im-nayeon-pre-save/static/0003d31b9a04ce21b173db9bbd400968/210c1/9f7f049e-2e85-4c17-b247-5847e3e4658b.webp",
+       "content":"TWICE Nayeon, who shines her special presence from her name, will debut as a solo artist on June 24, 2022.Nayeon will release her first mini-album – “IM NAYEON” – thanks to the longing and cheering of numerous domestic and international K-pop fans. “IM NAYEON”, her first solo album, means “I’M NAYEON” and “Lim Nayeon”, her full name, at the same time. It stands out for the charming attitude, competence, and confidence of Nayeon, a “born to be a star”, which can be fully explained by her name alone.",
+       "tracks":[
+          "POP!",
+          "NO PROBLEM",
+          "LOVE COUNTDOWN",
+          "CANDYFLOSS",
+          "ALL OR NOTHING",
+          "HAPPY BIRTHDAY TO YOU",
+          "노을만 예쁘다"
+       ],
+       "spotifyLink":"https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw",
+       "video":[
+          "https://www.youtube.com/watch?v=f6YDKF0LVWw"
+       ]
+    },
+    {
+       "_id":36,
+       "type":"Album",
+       "country":"Japan",
+       "name":"#TWICE4",
+       "releaseDate":"2022-03-16",
+       "coverArt":"https://s3-aop.plusmember.jp/prod/public/twice/contents/discography/adeafaab9152ff1609c02d4ce36a797e.jpeg",
+       "content":" #TWICE4 is the fourth Japanese best album by TWICE. It was released on March 16, 2022. ",
+       "tracks":[
+          "I CAN'T STOP ME - Japanese ver.",
+          "CRY FOR ME - Japanese ver.",
+          "Alcohol-Free - Japanese ver.",
+          "SCIENTIST - Japanese ver."
+       ],
+       "spotifyLink":"https://open.spotify.com/album/5UMKm3ihuSD9WQDkwQ7btX",
+       "video":[
+          "https://www.youtube.com/watch?v=7MHlhHaLcTA"
+       ]
+    },
+    {
+       "_id":35,
+       "type":"EP",
+       "country":"Japan",
+       "name":"Doughnut",
+       "releaseDate":"2021-12-15",
+       "coverArt":"https://s3-aop.plusmember.jp/prod/public/twice/contents/discography/3d83c7bad3d5b68bc28f12e676dde38a.jpeg",
+       "content":" \"Doughnut\" is a song recorded by South Korean girl group Twice. It is the group's ninth Japanese maxi single, featuring three other tracks. It was pre-released for digital download and streaming on December 3, 2021, by Warner Music Japan as a single from their upcoming Japanese full-length album Celebrate. The single and its B-side, \"Wonderful Day\", were physically released on December 15 in Japan. ",
+       "tracks":[
+          "Doughnut",
+          "Wonderful Day",
+          "Doughnut (Instrumental)",
+          "Wonderful Day (Instrumental)"
+       ],
+       "spotifyLink":"https://open.spotify.com/album/1eIMbbLLxejimwwLW4Rdl8",
+       "video":[
+          "https://www.youtube.com/watch?v=VcOSUOpACq0"
+       ]
+    },
+    {
+       "_id":34,
+       "type":"Album",
+       "country":"Korea",
+       "name":"Formula of Love: O+T=<3",
+       "releaseDate":"2021-11-12",
+       "coverArt":"https://lv2-cdn.azureedge.net/twice/d2b894fb350d437fa6884a35de893609-TWICE-FOL-ONLINE%20COVER_%EC%B5%9C%EC%A2%85.jpg",
+       "content":" TWICE, “a Representative K-pop Girl Group”, Will Release Its Third Full-length Album, “Formula of Love: O+T=<3”, with the Title Song, “SCIENTIST”, on November 12!- \"ONCE + TWICE = ♡\" is the only formula of love in the world! TWICE’s deep love for the fans is expressed throughout the new album, including the album title!- “SCIENTIST”, the title song, sings the conclusion of the nine members after contemplating love! Love is clear, not complicated!- It contains well-prepared 17 songs including songs contributed by NAYEON, JIHYO, DAHYUN, and CHAEYOUNG, “CANDY”, a song devoted to the fans (fan song), & the first unit songs of TWICE!- TWICE unleashes its unrivaled presence with the “Formula of Love: O+T=<3”, a full-length album after about one year, and “SCIENTIST”, a new song! ",
+       "tracks":[
+          "SCIENTIST",
+          "MOONLIGHT",
+          "ICON",
+          "CRUEL",
+          "REAL YOU",
+          "F.I.L.A (Fall in Love Again)",
+          "LAST WALTZ",
+          "ESPRESSO",
+          "REWIND",
+          "CACTUS",
+          "PUSH & PULL (JIHYO, SANA, DAHYUN)",
+          "HELLO (NAYEON, MOMO, CHAEYOUNG)",
+          "1, 3, 2 (JEONGYEON, MINA, TZUYU)",
+          "CANDY",
+          "The Feels",
+          "SCIENTIST - R3HAB Remix"
+       ],
+       "spotifyLink":"https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq",
+       "video":[
+          "https://www.youtube.com/watch?v=vPwaXytZcgI",
+          "https://www.youtube.com/watch?v=f5_wn8mexmM"
+       ]
+    },
+    {
+       "_id":33,
+       "type":"Single",
+       "country":"Korea",
+       "name":"The Feels",
+       "releaseDate":"2021-10-01",
+       "coverArt":"https://lv2-cdn.azureedge.net/twice/5b2b53c4654743fe809234c297a56ef1-TW-TheFeels-OnlineCover_0817.jpg",
+       "content":" “Representative K-pop Girl Group” TWICE Releases “The Feels”, the First English Single, on Oct 1, 2021!- “The Feels” is the \"fruit of unremitting efforts\"! This original digital English single is released to respond to global fans’ love!- “The Feels” is a disco-pop genre English song that will give you a special groove reflecting the “flutter and happiness” when you fall in love at first sight!- A teen concept that realized ONCE's wish! Doubles the unique charm of nine members with trendy visual + free atmosphere! ",
+       "tracks":[
+          "The Feels",
+          "The Feels (Instrumental)",
+          "The Feels - Benny Benassi Remix",
+          "The Feels - Benny Benassi Remix (Instrumental)",
+          "The Feels - The Stereotypes Remix",
+          "The Feels - The Stereotypes Remix (Instrumental)",
+          "The Feels - YVES V Remix",
+          "The Feels - YVES V Remix (Instrumental)",
+          "The Feels - Benny Benassi Remix Extended"
+       ],
+       "spotifyLink":"https://open.spotify.com/album/5kaDKzyrE5Cx9c4mLQZ6b1",
+       "video":[
+          "https://www.youtube.com/watch?v=f5_wn8mexmM"
+       ]
+    },
+    {
+       "_id":32,
+       "type":"Album",
+       "country":"Japan",
+       "name":"Perfect World",
+       "releaseDate":"2021-07-28",
+       "coverArt":"https://s3-aop.plusmember.jp/prod/public/twice/contents/discography/23cbc343de44032bbcfe7cc3228ef58b.jpeg",
+       "content":" Perfect World is the third Japanese studio album (fifth overall) by South Korean girl group Twice. It was released on July 28, 2021, by Warner Music Japan. The album features 10 tracks, including the title track, \"Perfect World\", and three previously released singles, \"Fanfare\", \"Better\", and \"Kura Kura\". ",
+       "tracks":[
+          "Perfect World",
+          "BETTER",
+          "Good at Love",
+          "Fanfare",
+          "Kura Kura",
+          "Four-leaf Clover",
+          "In the summer",
+          "PIECES OF LOVE",
+          "Thank you, Family",
+          "PROMISE"
+       ],
+       "spotifyLink":"https://open.spotify.com/album/17rk8h2IU4wwSFXw9j2uR6",
+       "video":[
+          "https://www.youtube.com/watch?v=fmOEKOjyDxU",
+          "https://www.youtube.com/watch?v=BSS8Y-0hOlY",
+          "https://www.youtube.com/watch?v=kRT174IdxuM",
+          "https://www.youtube.com/watch?v=sLmLwgxnPUE"
+       ]
+    },
+    {
+       "_id":31,
+       "type":"Album",
+       "country":"Korea",
+       "name":"Taste of Love",
+       "releaseDate":"2021-06-09",
+       "coverArt":"https://lv2-cdn.azureedge.net/twice/0a4c54764dff4aa795de975f93178439-%EC%98%A8%EB%9D%BC%EC%9D%B8%EC%BB%A4%EB%B2%84_%EB%B3%80%EA%B2%BD.jpg",
+       "content":" TWICE Will Release “Taste of Love”, the 10th Mini Album, and “Alcohol-Free”, the Title Track on June 11th- The first new album of the representative K-pop girl group releases in 2021! Enchanting songs sung by TWICE- “Alcohol-Free”, the title track, is a “new TWICE-brand summer song” made by combining hip-hop with Bossa Nova- Lyrics of songs are solely written by Nayeon, Sana, Jihyo, and Dahyun & Globally renowned artists joined in this album! A masterpiece album that will hit the summer of 2021! ",
+       "tracks":[
+          "Alcohol-Free",
+          "First Time",
+          "Scandal",
+          "Conversation",
+          "Baby Blue Love",
+          "SOS"
+       ],
+       "spotifyLink":"https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4",
+       "video":[
+          "https://www.youtube.com/watch?v=XA2YEHn-A8Q"
+       ]
+    },
+    {
+       "_id":30,
+       "type":"EP",
+       "country":"Japan",
+       "name":"Kura Kura",
+       "releaseDate":"2021-05-12",
+       "coverArt":"https://s3-aop.plusmember.jp/prod/public/twice/contents/discography/387c027e19042b106547296f9ef90c06.jpeg",
+       "content":" \"Kura Kura\" (\"dizziness\") is a song recorded by South Korean girl group TWICE. It is the group's eighth Japanese maxi single, featuring three other tracks. It was pre-released for digital download and streaming on April 21, 2021, by Warner Music Japan. The single and its B-side, \"Strawberry Moon\", were physically released on May 12, 2021, in Japan. ",
+       "tracks":[
+          "Kura Kura",
+          "Strawberry Moon",
+          "Kura Kura (Instrumental)",
+          "Strawberry Moon (Instrumental)"
+       ],
+       "spotifyLink":"https://open.spotify.com/album/1O0im7AhkMRTT37tzHmEXX",
+       "video":[
+          "https://www.youtube.com/watch?v=BSS8Y-0hOlY"
+       ]
+    },
+    {
+       "_id":29,
+       "type":"Single",
+       "country":"Korea",
+       "name":"CRY FOR ME",
+       "releaseDate":"2020-12-18",
+       "coverArt":"https://lv2-cdn.azureedge.net/twice/214d4ba8b19e44999403fa60512c2087-CRY%20FOR%20ME.jpg",
+       "content":" TWICE, a “representative K-pop girl group”, released “CRY FOR ME”, a digital single, on December 18th!- “CRY FOR ME”, which made global fans excited, now available after the release of “2020 MAMA”!- Written by Jin-young Park, a representative producer of JYP, & Heize, a singer-songwriter! Singing the confused emotions of entangled love and hate!- A powerful magic of love shown by TWICE! Inescapable black-hole-like emotion! ",
+       "tracks":[
+          "CRY FOR ME"
+       ],
+       "spotifyLink":"https://open.spotify.com/album/2aRAPmBCEdo9pWimsI5l87",
+       "video":[
+          
+       ]
+    },
+    {
+       "_id":28,
+       "type":"EP",
+       "country":"Japan",
+       "name":"BETTER",
+       "releaseDate":"2020-11-18",
+       "coverArt":"https://s3-aop.plusmember.jp/prod/public/twice/contents/discography/6becb4e675195c25813834fa886eaca1.jpeg",
+       "content":" \"Better\" is a song recorded by South Korean girl group Twice. It is the group's seventh Japanese maxi single, featuring three other tracks. It was pre-released for digital download and streaming on November 11, 2020, by Warner Music Japan. The single was physically released on November 18, 2020, in Japan. ",
+       "tracks":[
+          "BETTER",
+          "Scorpion",
+          "BETTER (Instrumental)",
+          "Scorpion (Instrumental)"
+       ],
+       "spotifyLink":"https://open.spotify.com/album/2xOUnTpb8hfcyPRrZOIVus?si=xRngaMDOS2upvFiJM895SA",
+       "video":[
+          "https://www.youtube.com/watch?v=sLmLwgxnPUE"
+       ]
+    },
+    {
+       "_id":27,
+       "type":"Album",
+       "country":"Korea",
+       "name":"Eyes wide open",
+       "releaseDate":"2020-10-26",
+       "coverArt":"https://lv2-cdn.azureedge.net/twice/087570ec6c704f11a18c23f4177b4a7a-TWICE%20EYES%20WIDE%20OPEN_ONLINECOVER.jpg",
+       "content":" TWICE will release “Eyes Wide Open”, the second full-length album, with “I Can’t Stop Me”, the title track of the album on Oct 26th!- The fabulous return of a “representative K-pop girl group”! A bolder and newer TWICE than ever before!- Title track “I Can’t Stop Me', words by J.Y. Park & Eunji Shim! Emotions of excitement that are difficult to control!- Participated by prominent foreign musicians such as Dua Lipa and Melanie Joy Fontana! Top-notch Artists!- JIHYO-NAYEON-SANA-DAHYUN-CHAEYOUNG wrote the lyrics of songs alone! Painted the own color of TWICE ",
+       "tracks":[
+          "I CAN'T STOP ME",
+          "HELL IN HEAVEN",
+          "UP NO MORE",
+          "DO WHAT WE LIKE",
+          "BRING IT BACK",
+          "BELIEVER",
+          "QUEEN",
+          "GO HARD",
+          "SHOT CLOCK",
+          "HANDLE IT",
+          "DEPEND ON YOU",
+          "SAY SOMETHING",
+          "BEHIND THE MASK"
+       ],
+       "spotifyLink":"https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH",
+       "video":[
+          "https://www.youtube.com/watch?v=CM4CkVFmTds"
+       ]
+    },
+    {
+       "_id":26,
+       "type":"Album",
+       "country":"Japan",
+       "name":"#TWICE3",
+       "releaseDate":"2020-09-16",
+       "coverArt":"https://s3-aop.plusmember.jp/prod/public/twice/contents/discography/347ca3a76b2ce483bee41ed4a85c3cf4.jpeg",
+       "content":" #TWICE3 is the third Japanese compilation album released by South Korean girl group Twice. The album consists of Japanese and Korean versions of \"Fancy\", \"Feel Special\", \"More & More\", \"Stuck In My Head\", \"21:29\" and \"The Best Thing I Ever Did\". It was released on September 16, 2020, under Warner Music Japan. ",
+       "tracks":[
+          "The Best Thing I Ever Did - Japanese ver.",
+          "FANCY - Japanese ver.",
+          "Feel Special - Japanese ver.",
+          "MORE & MORE - Japanese ver.",
+          "STUCK IN MY HEAD - Japanese ver.",
+          "21:29 - Japanese ver."
+       ],
+       "spotifyLink":"https://open.spotify.com/album/5CCOdkAWMzHFQCky3Lbfw5",
+       "video":[
+          "https://www.youtube.com/watch?v=6LbWN3FVfqI",
+          "https://www.youtube.com/watch?v=PPZ3qFIOp_c"
+       ]
+    },
+    {
+       "_id":25,
+       "type":"EP",
+       "country":"Japan",
+       "name":"Fanfare",
+       "releaseDate":"2020-07-08",
+       "coverArt":"https://s3-aop.plusmember.jp/prod/public/twice/contents/discography/e1cb35b1bcc375453d86ae60225710de.jpeg",
+       "content":" Fanfare is the 6th Japanese single by South Korean girl group TWICE. The single was released on July 8, 2020, and the song \"Fanfare\" and its music video were released on June 19, 2020. ",
+       "tracks":[
+          "Fanfare",
+          "MORE & MORE - Japanese ver.",
+          "Fanfare (Lee Hae Sol Remix)",
+          "Fanfare (Instrumental)"
+       ],
+       "spotifyLink":"https://open.spotify.com/album/6B5Dh9UinsLGWTwUJAI08L",
+       "video":[
+          "https://www.youtube.com/watch?v=kRT174IdxuM"
+       ]
+    },
+    {
+       "_id":24,
+       "type":"Album",
+       "country":"Korea",
+       "name":"MORE & MORE",
+       "releaseDate":"2020-06-01",
+       "coverArt":"https://lv2-cdn.azureedge.net/twice/MORE_MORE(1).jpg",
+       "content":" TWICE announces “MORE & MORE”, the mini 9th album and name of the title song, on June 1!- “A representative K-pop girl group” is back! TWICE's unique super-ultra refreshing and charming energy!- “MORE & MORE”, the title song, words and arrange by J.Y. Park, the head of JYP! The emotion you want more when you fall in love!- A parade of masterpieces completed by a group of brilliant artists, including NAYEON-JEONGYEON-CHAEYOUNG! ",
+       "tracks":[
+          "MORE & MORE",
+          "OXYGEN",
+          "FIREWORK",
+          "MAKE ME GO",
+          "SHADOW",
+          "DON’T CALL ME AGAIN",
+          "SWEET SUMMER DAY"
+       ],
+       "spotifyLink":"https://open.spotify.com/album/5KsduuDNWzt65TaHzmtciv",
+       "video":[
+          "https://www.youtube.com/watch?v=mH0_XpSHkZo"
+       ]
+    },
+    {
+       "_id":23,
+       "type":"Album",
+       "country":"Japan",
+       "name":"&TWICE (Repackage)",
+       "releaseDate":"2020-02-05",
+       "coverArt":"https://s3-aop.plusmember.jp/prod/public/twice/contents/discography/fd8db84e98713bd53eafd1f31003957c.jpeg",
+       "content":" &TWICE -Repackage- is a repackage of TWICE's second Japanese studio album &TWICE. It was released on February 5, 2020 with \"Swing\" serving as the album's title track.The physical release comes in two versions: a regular CD edition and a limited CD+DVD edition. ",
+       "tracks":[
+          "SWING",
+          "Fake & True",
+          "Stronger",
+          "Breakthrough",
+          "Changing!",
+          "HAPPY HAPPY",
+          "What You Waiting For",
+          "Be OK",
+          "POLISH",
+          "How u doin'",
+          "The Reason Why"
+       ],
+       "spotifyLink":"https://open.spotify.com/album/64Tvx7Ca3BjA4STHq1wFap",
+       "video":[
+          "https://www.youtube.com/watch?v=zQELp93xxfo",
+          "https://www.youtube.com/watch?v=ZdKYi5ekshM",
+          "https://www.youtube.com/watch?v=3n9rDwpa6QA"
+       ]
+    },
+    {
+       "_id":22,
+       "type":"Album",
+       "country":"Japan",
+       "name":"&TWICE",
+       "releaseDate":"2019-11-20",
+       "coverArt":"https://s3-aop.plusmember.jp/prod/public/twice/contents/discography/e1e6d525f3a670136c1ba6fd136bf009.jpeg",
+       "content":" &TWICE is the second Japanese studio album by TWICE. It was released on November 20, 2019 with \"Fake & True\" serving as the album's title track.The physical release comes in four versions: a regular CD edition, two limited CD+DVD editions (Types A and B) and a limited fanclub CD edition (available for ONCE Japan members only). ",
+       "tracks":[
+          "Fake & True",
+          "Stronger",
+          "Breakthrough",
+          "Changing!",
+          "HAPPY HAPPY",
+          "What You Waiting For",
+          "Be OK",
+          "POLISH",
+          "How u doin'",
+          "The Reason Why"
+       ],
+       "spotifyLink":"https://open.spotify.com/album/2MwyDQhotK4B1WcZ5ogrtB",
+       "video":[
+          "https://www.youtube.com/watch?v=zQELp93xxfo",
+          "https://www.youtube.com/watch?v=ZdKYi5ekshM",
+          "https://www.youtube.com/watch?v=3n9rDwpa6QA"
+       ]
+    },
+    {
+       "_id":21,
+       "type":"Album",
+       "country":"Korea",
+       "name":"Feel Special",
+       "releaseDate":"2019-09-23",
+       "coverArt":"https://lv2-cdn.azureedge.net/twice/Feel_Special.jpg",
+       "content":" TWICE announces the 8th Mini Album with the title song 'Feel Special'!\"Have you ever felt like you are a “special being”?\"A gift-like story to everyone who gave 'a brilliant moment' to the nine members “I, who used to be nothing, have become a special being thanks to you.”- The new album “Feel Special” captures the heart-throbbing moments shining each other!- Title song 'Feel Special', the combination of “J.Y. Park X collapsedone”! Aim for “12 consecutive hits”- High-quality album with the participation of top composers including TWICE! \"Parade of masterpieces\" ",
+       "tracks":[
+          "FEEL SPECIAL",
+          "RAINBOW",
+          "GET LOUD",
+          "TRICK IT",
+          "LOVE FOOLISH",
+          "21:29",
+          "BREAKTHROUGH (Korean Ver.)"
+       ],
+       "spotifyLink":"https://open.spotify.com/album/3NQBPabmRm3LzVcmtkTLfo",
+       "video":[
+          "https://www.youtube.com/watch?v=3ymwOvzhwHs"
+       ]
+    },
+    {
+       "_id":20,
+       "type":"EP",
+       "country":"Japan",
+       "name":"Breakthrough",
+       "releaseDate":"2019-07-24",
+       "coverArt":"https://s3-aop.plusmember.jp/prod/public/twice/contents/discography/3eb296399f3815ba4ebe60895385b729.jpeg",
+       "content":" \"Breakthrough\" is the fifth Japanese single by TWICE. It was released on July 24, 2019.The music video for the title track was released on June 11, 2019, along with \"Happy Happy\". The song was also released as a digital download on the same day. ",
+       "tracks":[
+          "Breakthrough",
+          "FANCY - Japanese ver.",
+          "Breakthrough (taalthechoi Remix)",
+          "Breakthrough (Instrumental)"
+       ],
+       "spotifyLink":"https://open.spotify.com/album/7dU0vceNngXWT2XZUU4y9W",
+       "video":[
+          "https://www.youtube.com/watch?v=ZdKYi5ekshM"
+       ]
+    },
+    {
+       "_id":19,
+       "type":"EP",
+       "country":"Japan",
+       "name":"HAPPY HAPPY",
+       "releaseDate":"2019-07-17",
+       "coverArt":"https://s3-aop.plusmember.jp/prod/public/twice/contents/discography/7e3cbd01f892884b8977e370bdbedd58.jpeg",
+       "content":" \"Happy Happy\" is the fourth Japanese single by TWICE. It was released on July 17, 2019.The music video for the title track was released on June 11, 2019, along with \"Breakthrough\". The song was also released as a digital download on the same day. ",
+       "tracks":[
+          "HAPPY HAPPY",
+          "The Best Thing I Ever Did - Japanese ver.",
+          "HAPPY HAPPY (collapsedone Remix)",
+          "HAPPY HAPPY (Instrumental)"
+       ],
+       "spotifyLink":"https://open.spotify.com/album/21OEpd5p9vaNQcDMTu05in",
+       "video":[
+          "https://www.youtube.com/watch?v=3n9rDwpa6QA"
+       ]
+    },
+    {
+       "_id":18,
+       "type":"Album",
+       "country":"Korea",
+       "name":"FANCY YOU",
+       "releaseDate":"2019-04-22",
+       "coverArt":"https://lv2-cdn.azureedge.net/twice/FANCY_YOU.jpg",
+       "content":" TWICE Announces The 7th Mini Album and its Title Song ‘FANCY’! Falling in love to ‘NEW TWICE!’- Title Song ‘FANCY’, captivating mellow mood POP Dance song “I FANCY YOU!” Suggesting ‘NEW TWICE’!- New album ‘FANCY YOU’, completed various sounds with the participation of famous overseas composers ‘Charli XCX’, ‘MNEK’ and so on!- Presents total 6 Tracks including 4 songs written by JIHYO-MOMO-SANA-CHAEYOUNG! ‘The Album written by TWICE sensibility’ ",
+       "tracks":[
+          "FANCY",
+          "STUCK IN MY HEAD",
+          "GIRLS LIKE US",
+          "HOT",
+          "TURN IT UP",
+          "STRAWBERRY"
+       ],
+       "spotifyLink":"https://open.spotify.com/album/3aLpWFejbsdyafODLXRqwF",
+       "video":[
+          "https://www.youtube.com/watch?v=kOHB85vDuow"
+       ]
+    },
+    {
+       "_id":17,
+       "type":"Album",
+       "country":"Japan",
+       "name":"#TWICE2",
+       "releaseDate":"2019.03.06",
+       "coverArt":"https://s3-aop.plusmember.jp/prod/public/twice/contents/discography/a107d8bcc0be61f0017118bcda752be1.jpeg",
+       "content":" #TWICE2 is the second Japanese compilation album by South Korean girl group Twice. It consists of both Korean and Japanese versions of \"Likey\", \"Heart Shaker\", \"What Is Love?\", \"Dance the Night Away\" and \"Yes or Yes\". It was released by Warner Music Japan on March 6, 2019. ",
+       "tracks":[
+          "LIKEY - Japanese ver.",
+          "Heart Shaker - Japanese ver.",
+          "What is Love? - Japanese ver.",
+          "Dance The Night Away - Japanese ver.",
+          "YES or YES - Japanese ver."
+       ],
+       "spotifyLink":"https://open.spotify.com/album/2QmO12UqPp1BQN4kSGtcAx",
+       "video":[
+          "https://www.youtube.com/watch?v=V2hlQkVJZhE",
+          "https://www.youtube.com/watch?v=rRzxEiBLQCA",
+          "https://www.youtube.com/watch?v=i0p1bmr0EmE",
+          "https://www.youtube.com/watch?v=Fm5iP0S1z9w",
+          "https://www.youtube.com/watch?v=mAKsZ26SabQ"
+       ]
+    },
+    {
+       "_id":16,
+       "type":"Album",
+       "country":"Japan",
+       "name":"BDZ (Repackage)",
+       "releaseDate":"2018.12.26",
+       "coverArt":"https://s3-aop.plusmember.jp/prod/public/twice/contents/discography/c743d0f26c7016555fd60a12ecf40b54.jpeg",
+       "content":" BDZ -Repackage- is a repackage of TWICE's first Japanese full-length album BDZ. It was released on December 26, 2018 with \"Stay By My Side\" serving as the album's title track. ",
+       "tracks":[
+          "STAY BY MY SIDE",
+          "BDZ",
+          "One More Time",
+          "Candy Pop",
+          "L.O.V.E",
+          "Wishing",
+          "Say it again",
+          "Wake Me Up",
+          "BRAND NEW GIRL",
+          "Be as ONE",
+          "I WANT YOU BACK"
+       ],
+       "spotifyLink":"https://open.spotify.com/album/1dZtA3Lt9sUGqkM6KWY92x",
+       "video":[
+          "https://www.youtube.com/watch?v=96K5RxgTfW4",
+          "https://www.youtube.com/watch?v=CMNahhgR_ss",
+          "https://www.youtube.com/watch?v=HuoOEry-Yc4",
+          "https://www.youtube.com/watch?v=wQ_POfToaVY",
+          "https://www.youtube.com/watch?v=DdLYSziSXII",
+          "https://www.youtube.com/watch?v=r1CMjQ0QJ1E",
+          "https://www.youtube.com/watch?v=LsSZbRReWNY",
+          "https://www.youtube.com/watch?v=X3H-4crGD6k"
+       ]
+    },
+    {
+       "_id":15,
+       "type":"Album",
+       "country":"Korea",
+       "name":"The year of \"YES\"",
+       "releaseDate":"2018-12-12",
+       "coverArt":"https://lv2-cdn.azureedge.net/twice/The_year_of_YES.jpg",
+       "content":" TWICE Releases The 3rd Special Album ‘The year of “YES”’ and The Title song ‘The Best Thing I Ever Did’ on December 12th- The Best Thing TWICE Ever Did in 2018? “The Most Precious Memory Is Meeting People Who We Love.”- “TWICE’s the First R&B Challenge”… The Title Song ‘The Best Thing I Ever Did’, Created with The ‘Blank Filling’ Composition Method of JYP Entertainment J.Y. Park “The Asiansoul”- The New Gift-Like Album that TWICE Presents to the Fans, ‘The year of “YES”’ Contains a Total of 9 Tracks! 'The Grand Finale of 2018’ ",
+       "tracks":[
+          "올해 제일 잘한 일 (The Best Thing I Ever Did)",
+          "Be as ONE (Korean Ver.)",
+          "YES or YES",
+          "SAY YOU LOVE ME",
+          "LALALA",
+          "YOUNG & WILD",
+          "SUNSET",
+          "AFTER MOON",
+          "BDZ (Korean Ver.)"
+       ],
+       "spotifyLink":"https://open.spotify.com/album/0pzmyJftuTK7i4HLjnfq1n",
+       "video":[
+          "https://www.youtube.com/watch?v=CfUGjK6gGgs",
+          "https://www.youtube.com/watch?v=mAKsZ26SabQ"
+       ]
+    },
+    {
+       "_id":14,
+       "type":"Album",
+       "country":"Korea",
+       "name":"YES or YES",
+       "releaseDate":"2018-11-05",
+       "coverArt":"https://lv2-cdn.azureedge.net/twice/YES_or_YES.jpg",
+       "content":" TWICE Announces the Comeback with The 6th Mini Album and Its Title Song ‘YES or YES’ on 5th, November!- Charming TWICE, Releases New Album ‘YES or YES’ to Continue 10th Consecutive Hit March! K-POP World Pays Special Attention~- Confession of 9 ‘Lovely Girls Waiting for an Obvious Answer’! Our Answer? “YES~”- Containing 7 Tracks with ‘LALALA’, ‘YOUNG & WILD’, ‘SUNSET’, Directly written by TWICE & The 1st J-Pop Album Title Song ‘BDZ (Korean Ver.)’! ",
+       "tracks":[
+          "YES or YES",
+          "SAY YOU LOVE ME",
+          "LALALA",
+          "YOUNG & WILD",
+          "SUNSET",
+          "AFTER MOON",
+          "BDZ (Korean Ver.)"
+       ],
+       "spotifyLink":"https://open.spotify.com/album/25VunQEW0x2W6ALND2Mh4g",
+       "video":[
+          "https://www.youtube.com/watch?v=mAKsZ26SabQ"
+       ]
+    },
+    {
+       "_id":13,
+       "type":"Album",
+       "country":"Japan",
+       "name":"BDZ",
+       "releaseDate":"2018-09-12",
+       "coverArt":"https://s3-aop.plusmember.jp/prod/public/twice/contents/discography/8ac88e31ec2bd57b0b5482a5e07f967f.jpeg",
+       "content":" BDZ (ビーディーゼット) is the first Japanese full-length album by TWICE. It was released on September 12, 2018 with \"BDZ\" serving as the album's title track.<The song \"BDZ\" and its music video were released on August 17, 2018. ",
+       "tracks":[
+          "BDZ",
+          "One More Time",
+          "Candy Pop",
+          "L.O.V.E",
+          "Wishing",
+          "Say it again",
+          "Wake Me Up",
+          "BRAND NEW GIRL",
+          "Be as ONE",
+          "I WANT YOU BACK"
+       ],
+       "spotifyLink":"https://open.spotify.com/album/3Bi7hl11zYHpw6uE6gAtSs",
+       "video":[
+          "https://www.youtube.com/watch?v=CMNahhgR_ss",
+          "https://www.youtube.com/watch?v=HuoOEry-Yc4",
+          "https://www.youtube.com/watch?v=wQ_POfToaVY",
+          "https://www.youtube.com/watch?v=DdLYSziSXII",
+          "https://www.youtube.com/watch?v=r1CMjQ0QJ1E",
+          "https://www.youtube.com/watch?v=LsSZbRReWNY",
+          "https://www.youtube.com/watch?v=X3H-4crGD6k"
+       ]
+    },
+    {
+       "_id":12,
+       "type":"Album",
+       "country":"Korea",
+       "name":"Summer Nights",
+       "releaseDate":"2018-07-09",
+       "coverArt":"https://lv2-cdn.azureedge.net/twice/Summer_Nights.jpg",
+       "content":" TWICE Announces the 2nd Special Album ‘Summer Nights’ and its Title Song ‘Dance The Night Away’ on July 9th!- Title Song, ‘Dance The Night Away’, the First Summer Song of TWICE! Presenting Unique Happy Energy- ‘TWICE X Wheesung’ Combination Targeting 9 Consecutive Hits! 2018 Summer Girls’ Charming Party!- 2nd Special Album ‘Summer Nights’, Containing a Total of 9 Tracks with 3 New Songs! Spotlight to ‘Shot thru the heart’, written by MOMO-SANA-MINA ",
+       "tracks":[
+          "Dance The Night Away",
+          "CHILLAX",
+          "Shot thru the heart",
+          "What is Love?",
+          "SWEET TALKER",
+          "HO!",
+          "DEJAVU",
+          "Say Yes",
+          "STUCK"
+       ],
+       "spotifyLink":"https://open.spotify.com/album/2GKTroaa4ysyhEdvzpvUoM",
+       "video":[
+          "https://www.youtube.com/watch?v=Fm5iP0S1z9w",
+          "https://www.youtube.com/watch?v=i0p1bmr0EmE"
+       ]
+    },
+    {
+       "_id":11,
+       "type":"Album",
+       "country":"Korea",
+       "name":"What is Love?",
+       "releaseDate":"2018-04-09",
+       "coverArt":"https://lv2-cdn.azureedge.net/twice/What_is_Love.jpg",
+       "content":" TWICE Announces the 5th Mini Album and its Title Song 'What is Love?' on the 9th!- Title Song 'What is Love?', Sweet Imagination of 'TWICE who are Curious about Love'!- 'J.Y. Park X TWICE' Combination, Followed by 'SIGNAL' in 2017, Foretells the Revival of Glory with 'What is Love?' in 2018!- Announcing the Forceful Start in 2018, the New Album 'What is Love?' Presents the 6 Tracks Including 'SWEET TALKER' and 'HO!' written by TWICE. ",
+       "tracks":[
+          "What is Love?",
+          "SWEET TALKER",
+          "HO!",
+          "DEJAVU",
+          "SAY YES",
+          "STUCK (CD Only)"
+       ],
+       "spotifyLink":"https://open.spotify.com/album/5o5cJ6yZmcyy4y4hK0J6de",
+       "video":[
+          "https://www.youtube.com/watch?v=i0p1bmr0EmE"
+       ]
+    },
+    {
+       "_id":10,
+       "type":"EP",
+       "country":"Japan",
+       "name":"Candy Pop",
+       "releaseDate":"2018-02-07",
+       "coverArt":"https://s3-aop.plusmember.jp/prod/public/twice/contents/discography/7b80e4fcac6caf545ffecc8a09d5ccbd.jpeg",
+       "content":" \"Candy Pop\" is the second Japanese single from Twice. The single released on February 7, 2018. It comes with two tracks \"Candy Pop\" and \"BRAND NEW GIRL\". Four versions are available: Limited edition A, B, normal version and Japan \"Once\" limited version. ",
+       "tracks":[
+          "Candy Pop",
+          "BRAND NEW GIRL",
+          "Candy Pop (Instrumental)",
+          "BRAND NEW GIRL (Instrumental)"
+       ],
+       "spotifyLink":"https://open.spotify.com/album/4t6JjDorVawKA34IhApYC4",
+       "video":[
+          "https://www.youtube.com/watch?v=wQ_POfToaVY",
+          "https://www.youtube.com/watch?v=r1CMjQ0QJ1E"
+       ]
+    },
+    {
+       "_id":9,
+       "type":"Album",
+       "country":"Korea",
+       "name":"Merry & Happy",
+       "releaseDate":"2017-12-11",
+       "coverArt":"https://lv2-cdn.azureedge.net/twice/Merry&Happy(2).jpg",
+       "content":" TWICE Releases the Repackage Album 'Merry & Happy' and the Title Song 'Heart Shaker' for the Christmas Season!- The New Album 'Merry & Happy' Is Full of Loveliness, and the Title Song 'Heart Shaker' Is Much Like a Christmas Gift.- 'The Christmas Fairies Are Coming' TWICE Energetically Marching Towards the End of 2017! 'The 7th Consecutive Popular Hit is Expected.'- The Repackage Album and the Title Song 'Heart Shaker' + the Carol 'Merry & Happy' are Released on the 11th at 6PM. ",
+       "tracks":[
+          "Heart Shaker",
+          "Merry & Happy",
+          "Likey",
+          "거북이 (Turtle)",
+          "Missing U",
+          "WOW",
+          "FFW",
+          "Ding Dong",
+          "24/7",
+          "날 바라바라봐 (Look at Me)",
+          "Rollin'",
+          "Love Line",
+          "힘내! (DON'T GIVE UP)",
+          "널 내게 담아 (You in My Heart)",
+          "잘자요 굿나잇 (Jaljayo Good Night)"
+       ],
+       "spotifyLink":"https://open.spotify.com/album/0R7pj4tnmcoUulrZGPo6nw",
+       "video":[
+          "https://www.youtube.com/watch?v=rRzxEiBLQCA",
+          "https://www.youtube.com/watch?v=zi_6oaQyckM",
+          "https://www.youtube.com/watch?v=V2hlQkVJZhE"
+       ]
+    },
+    {
+       "_id":8,
+       "type":"Album",
+       "country":"Korea",
+       "name":"twicetagram",
+       "releaseDate":"2017-10-30",
+       "coverArt":"https://lv2-cdn.azureedge.net/twice/twicetagram.jpg",
+       "content":" At This Very Moment, Our 'TWICE' Announces The 1st Album 'twicetagram' on the 30th! ‘LIKEY’, the ‘Future Electro Pop’ Title Track Collaborated with Black Eyed Pilseung X Jeon Goon- Customized for TWICE, 'LIKEY,' a future electro pop genre song collaborated with Black Eyed Pilseung X Jeon Goon- The eagerly-anticipated 1st Album 'twicetagram,' includes a total of 13 tracks including the songs written by the members- The third comeback in 2017 with The 1st Album combined with 'TWICE-like' and trendiness!The 6 consecutive successful marches towards the No.1 girl group in Asia! ",
+       "tracks":[
+          "Likey",
+          "거북이 (Turtle)",
+          "Missing U",
+          "WOW",
+          "FFW",
+          "Ding Dong",
+          "24/7",
+          "날 바라바라봐 (Look at Me)",
+          "Rollin'",
+          "Love Line",
+          "힘내! (DON'T GIVE UP)",
+          "널 내게 담아 (You in My Heart)",
+          "잘자요 굿나잇 (Jaljayo Good Night)"
+       ],
+       "spotifyLink":"https://open.spotify.com/album/3hJXmK5gWN9P6jtZL0Lr2y",
+       "video":[
+          "https://www.youtube.com/watch?v=V2hlQkVJZhE"
+       ]
+    },
+    {
+       "_id":7,
+       "type":"EP",
+       "country":"Japan",
+       "name":"One More Time",
+       "releaseDate":"2017-10-18",
+       "coverArt":"https://s3-aop.plusmember.jp/prod/public/twice/contents/discography/5c2ad9c0991fc3cee4fe354f802934cd.jpeg",
+       "content":" One More Time is the first Japanese single from Twice. The single released on the October 18, 2017. It comes with two tracks \"One More Time\" and \"LUV ME\". Three versions are available: Limited edition A, B, and normal version. There is also a version limited to Japan \"Once\" member only, which they can choose between one individual member on the cover, or the Halloween cover. ",
+       "tracks":[
+          "One More Time",
+          "LUV ME",
+          "One More Time (Instrumental)",
+          "LUV ME (Instrumental)"
+       ],
+       "spotifyLink":"https://open.spotify.com/album/20tQIMCWsH5GjJUlSX5tBb",
+       "video":[
+          "https://www.youtube.com/watch?v=HuoOEry-Yc4"
+       ]
+    },
+    {
+       "_id":6,
+       "type":"Album",
+       "country":"Japan",
+       "name":"#TWICE",
+       "releaseDate":"2017-06-28",
+       "coverArt":"https://s3-aop.plusmember.jp/prod/public/twice/contents/discography/cfce71d8fc0b81b388db53d8a4541fb3.jpeg",
+       "content":" JAPAN DEBUT BEST ALBUM『#TWICE』. This album release in 2017-06-28 ",
+       "tracks":[
+          "Like OOH-AHH - Japanese ver.",
+          "CHEER UP - Japanese ver.",
+          "TT - Japanese ver.",
+          "Knock Knock - Japanese ver.",
+          "SIGNAL - Japanese ver."
+       ],
+       "spotifyLink":"https://open.spotify.com/album/3RU5xvGbTAXCWoUSqGf7dk",
+       "video":[
+          "https://www.youtube.com/watch?v=t35H2BVq490"
+       ]
+    },
+    {
+       "_id":5,
+       "type":"Album",
+       "country":"Korea",
+       "name":"SIGNAL",
+       "releaseDate":"2017-05-15",
+       "coverArt":"https://lv2-cdn.azureedge.net/twice/TWICE_SIGNAL.jpg",
+       "content":" \"Signal\" is a song by South Korean girl group Twice . It is the first and title track in the group's fourth mini-album, Signal. The single and its music video was released on May 15, 2017. ",
+       "tracks":[
+          "SIGNAL",
+          "하루에 세 번 (Three Times a Day)",
+          "Only 너 (Only You)",
+          "Hold Me Tight",
+          "Eye Eye Eyes",
+          "Someone Lime Me"
+       ],
+       "spotifyLink":"https://open.spotify.com/album/28PwDunFAR71toOCTYRvkf",
+       "video":[
+          "https://www.youtube.com/watch?v=VQtonf1fv_s"
+       ]
+    },
+    {
+       "_id":4,
+       "type":"Album",
+       "country":"Korea",
+       "name":"TWICEcoaster : LANE 2",
+       "releaseDate":"2017-02-20",
+       "coverArt":"https://lv2-cdn.azureedge.net/twice/TWICEcoaster_LANE_2.jpg",
+       "content":" TWICEcoaster : LANE 2 is the reissue of South Korean girl group Twice's third extended play (EP) Twicecoaster: Lane 1. It was released digitally and physically on February 20, 2017, by JYP Entertainment. It contains thirteen tracks, including the lead single, \"Knock Knock\". ",
+       "tracks":[
+          "Knock Knock",
+          "녹아요 (Ice Cream)",
+          "TT",
+          "1 to 10",
+          "Ponytail",
+          "Jelly Jelly",
+          "Pit a pat",
+          "Next Page",
+          "One in a million",
+          "TT (Tak Remix)"
+       ],
+       "spotifyLink":"https://open.spotify.com/album/2Mw8oK3aJKmOa9YGWqpN2W",
+       "video":[
+          "https://www.youtube.com/watch?v=8A2t_tAjMz8",
+          "https://www.youtube.com/watch?v=ePpPVE-GGJw"
+       ]
+    },
+    {
+       "_id":3,
+       "type":"Album",
+       "country":"Korea",
+       "name":"TWICEcoaster : LANE 1",
+       "releaseDate":"2016-10-24",
+       "coverArt":"https://lv2-cdn.azureedge.net/twice/TWICEcoaster_LANE_1.jpg",
+       "content":" A Girl Group That Can Only Be Loved, TWICE Returns!. Just Like Riding a Roller Coaster, More Exciting and Thrilling, a Pit-a-Pat Ticket [TWICEcoaster : LANE 1]!. The Title ‘TT’ Describes a Girl’s Cute Pounding Heart as She Falls in Love for the First Time. Predicts the 3rd Consecutive Mega-Hit Followed by ‘Like OOH-AHH’-‘CHEER UP’! ",
+       "tracks":[
+          "TT",
+          "1 to 10",
+          "Ponytail",
+          "Jelly Jelly",
+          "Pit a pat",
+          "Next Page",
+          "One in a million"
+       ],
+       "spotifyLink":"https://open.spotify.com/album/5zQhaDNbiXHRqd8Y51I4vy",
+       "video":[
+          "https://www.youtube.com/watch?v=ePpPVE-GGJw"
+       ]
+    },
+    {
+       "_id":2,
+       "type":"EP",
+       "country":"Korea",
+       "name":"Page Two",
+       "releaseDate":"2016-04-25",
+       "coverArt":"https://lv2-cdn.azureedge.net/twice/PAGE_TWO.jpg",
+       "content":" Finally Returns, TWICE’s 2nd Story Starts with the 2nd Mini Album [PAGE TWO] Release on April 25th.‘A Revolving Door with No Exit’ with Upgraded TWICE’s Unique Healthy and Lively Charm: The Girl Group’s Strong Step Forward. ",
+       "tracks":[
+          "Cheer Up",
+          "소중한 사랑 (Precious Love)",
+          "Touchdown",
+          "툭하면 톡 (Tuk Tok)",
+          "Woohoo",
+          "Headphone 써 (My Headphone On)",
+          "I’m gonna be a star (CD Only)"
+       ],
+       "spotifyLink":"https://open.spotify.com/album/6q2oUEqL9uzVXHCeKoA8JV",
+       "video":[
+          "https://www.youtube.com/watch?v=c7rCyll5AeY"
+       ]
+    },
+    {
+       "_id":1,
+       "type":"EP",
+       "country":"Korea",
+       "name":"The Story Begins",
+       "releaseDate":"2015-10-20",
+       "coverArt":"https://lv2-cdn.azureedge.net/twice/a68274bbdd254344afaa8ad9c0b5151f-THE_STORY_BEGINS.jpg",
+       "content":"JYP's Brand new girl group 'TWICE' release debut album 'THE STORY BEGINS'TWICE will present vibrant energy with title track 'Like OOH-AHH'Average age is 18, They will take up with assertive attractiveness.- JYP Brand new girl group 'TWICE' release debut album 'THE STORY BEGINS'- Present the brand new genre \"Color Pop\" which is unique color of TWICE- Once with superb music, Twice with best performance,Have great willingness to present the highest touching to the fans",
+       "tracks":[
+          "Like OOH-AHH",
+          "Do it again",
+          "Going Crazy",
+          "Truth",
+          "Candy Boy",
+          "Like a Fool"
+       ],
+       "spotifyLink":"https://open.spotify.com/album/72WWZVAx6GtSbEeGESwDLo?si=qu8PW0arTiu0ZsMSlV_wiQ",
+       "video":[
+          "https://www.youtube.com/watch?v=0rtV5esQT6I"
+       ]
+    }
+ ]  
